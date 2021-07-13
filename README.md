@@ -1,2 +1,5 @@
 # API-Project-People-Management
-API Project People Management Bootcamps: Avanade CodeAnywhere
+API Project People Management 
+
+Bootcamps: 
+  Avanade CodeAnywhere
